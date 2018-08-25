@@ -1,5 +1,5 @@
 # ReactNativeNote
-React Native 进阶笔录，如果你也有一个好的记入学习的习惯，可以考虑加入进行。
+React Native 进阶笔录，如果你也有一个好的记入学习的习惯，可以考虑加入我们。
 
 ## Directory
 
